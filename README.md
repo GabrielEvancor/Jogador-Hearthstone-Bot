@@ -1,1 +1,3 @@
 # Jogador-Hearthstone-Bot
+
+Nesse projeto desenvolvi habilidades em programaçao orientada a objetos. Durante a disciplina da faculdade utilizamos os conceitos de POO dentro da construçao de um projeto tendo como base o jogo de cartas Hearthstone. No projeto final da disciplina, que é o conteudo deste repositório, utilizamos todas as classes que criamos ao longo do semestre na construçao de um jogador para enfrentar o Bot criado pelo professor que ministrou a disciplina. O bot criado pelo professor esta contido dentro do arquivo Motor-V4.zip enquanto o jogador e a estrategia detalhada criada por mim consta no arquivo JogadorRA250320.java.
